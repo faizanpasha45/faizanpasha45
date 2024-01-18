@@ -1,1 +1,1 @@
-web:python FAIZU.py
+web: python FAIZU.py
